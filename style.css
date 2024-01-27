@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header {
+     background-color: purple;
+     padding: 5px;
+}
+h1 { 
+  text-align: center; color: blue;
+}
+footer {
+   background-color: purple;
+   color:white;
+}
+nav{
+  border: 10px solid purple;background-color: purple;
+}
+nav a{
+   text-decoration: none;
+   background-color: purple;
+   border:2px solid white; 
+   color:white;
+   padding: 5px;
+   margin: 10px;
+}
